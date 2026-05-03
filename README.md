@@ -24,7 +24,7 @@ https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset
 
 ```bash
 streamlit run app.py
-
-👨‍💻 Author
+```
+## 👨‍💻 Author
 
 Moataz Nageh

@@ -13,7 +13,7 @@ glioma, meningioma, pituitary tumor, and no tumor.
 
 ## 🖥 Application Preview
 
-![App Screenshot](ui.png)
+![App Screenshot](ui_dep.png)
 
 
 ---

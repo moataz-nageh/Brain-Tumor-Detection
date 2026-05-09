@@ -9,6 +9,15 @@ glioma, meningioma, pituitary tumor, and no tumor.
   - Random Forest
   - Gradient Boosting
 
+---
+
+## 🖥 Application Preview
+
+![App Screenshot](ui.png)
+
+
+---
+
 ## 📊 Evaluation
 Models are compared using:
 - Accuracy
